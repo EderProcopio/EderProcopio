@@ -6,6 +6,6 @@
 
 <div align="center">
   <a ref="https://github.com/EderProcopio">
-    <img heigth="200em" src="https://github-readme-stats.vercel.app/api?username=EderProcopio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img heigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderProcopio&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=EderProcopio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderProcopio&layout=compact&langs_count=7&theme=tokyonight"/>
    
