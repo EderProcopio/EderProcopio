@@ -1,6 +1,6 @@
 ### Olá, Mundo🤣! Eu sou o Eder. 👋
 
-- 🔭 Atualmente estou cursando o quarto semestre de ADS na Univercidade Estácio.
+- 🔭 Atualmente estou cursando o quinto semestre de ADS na Univercidade Estácio.
 - 🌱 Estou estudando HTML, CSS e JavaScript.
 - ⚡ Meu objetivo a curto prazo, é dominar JavaScript e Python. 
 
