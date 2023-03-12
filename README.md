@@ -1,8 +1,8 @@
 ### Olá, Mundo🤣! Eu sou o Eder. 👋
 
-- 🔭 Atualmente estou cursando o quinto semestre de ADS na Univercidade Estácio.
-- 🌱 Estou estudando HTML, CSS e JavaScript.
-- ⚡ Meu objetivo a curto prazo, é dominar JavaScript e Python. 
+-  Atualmente estou cursando o quinto semestre de ADS na Univercidade Estácio.
+-  Estou estudando HTML, CSS e JavaScript.
+-  Meu objetivo a curto prazo é me tornar um desvolvedor de Frontend. A médio prazo metornar um Dev Full-Stack.
 
 <div align="center">
   <a ref="https://github.com/EderProcopio">
