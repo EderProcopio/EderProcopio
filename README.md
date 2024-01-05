@@ -21,4 +21,4 @@
 
    <a href="https://www.instagram.com/edertsprocopio/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
    
- ![Snake animation](https://github.com/EderProcopio/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/EderProcopio/EderProcopio/blob/output/github-contribution-grid-snake.svg)
