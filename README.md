@@ -1,4 +1,4 @@
-### Olá, Mundo🤣! Eu sou o Eder. 👋
+## Olá, Mundo🤣! Eu sou o Eder. 👋
 
 -  Tecnólogo formado em Análise e Desnvolvimento de Sistemas pela Universidade Estácio em 2023.
 -  Estou realizando cursos de especialização em desenvolvimento web.
@@ -11,7 +11,7 @@
   </a>
 </div>  
 
-<div style="display: inline_block  background-color: red";><br>
+<div align="center" style="display: inline_block";><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,5 +19,5 @@
 
    <br>
 
-   <a href="https://www.instagram.com/edertsprocopio/" target="_blank">  </a>
-  ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+   <a href="https://www.instagram.com/edertsprocopio/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  ! (https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
