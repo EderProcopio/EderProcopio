@@ -15,6 +15,8 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/EderProcopio/EderProcopio/blob/output/github-contribution-grid-snake.svg)
+
 ## Me especializando em:
 
 <div align="center" style="display: inline_block";>
